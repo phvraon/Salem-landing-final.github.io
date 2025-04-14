@@ -21,7 +21,7 @@ document.querySelector('#app').innerHTML = `
     </nav>
 
     <!-- Hero Section -->
-    <section class="section-padding relative" style="background: url('/src/public/images/background.jpg') center/cover no-repeat;">
+    <section class="section-padding relative" style="background: url('/src/public/images/background.jpg') center/cover no-repeat;" width='500px' height='500px'>
       <div class="absolute inset-0 bg-black bg-opacity-50"></div>
       <div class="container relative">
         <div class="grid grid-cols-2 items-center">
